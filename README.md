@@ -11,7 +11,7 @@ Technologies Used
 - JavaScript
 
 Features
-- Generates a random number between 1 and 10
+- Generates a random number between 1 and 1000
 - Simple and clean UI
 - Instant result on button click
 
@@ -19,3 +19,4 @@ How It Works
 - User clicks the generate button
 - JavaScript generates a random number
 - The number is displayed dynamically
+
